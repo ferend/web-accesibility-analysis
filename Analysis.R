@@ -14,7 +14,7 @@ data<-read.csv2("web-accessibility.csv", header = TRUE, stringsAsFactors = F, se
     
 data <- na.omit(data)
 
-data <- subset (data, select = -has_issue_title) # Only 3 website has this issue
+data <- subset (data, select = -has_issue_title) 
 
 ################################################# DATA MANIPULATION PART ##########################################################
 data <- data %>%                               
