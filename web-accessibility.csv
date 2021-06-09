@@ -1,0 +1,389 @@
+Name,Score,Language,Domain,has_issue_headings,has_issue_regions,has_issue_image,has_issue_anchor,has_issue_table,has_issue_form,has_issue_lang,has_issue_title
+University of Oxford,78,en,.ac.uk/,False,False,True,False,False,False,False,False
+Stanford University,44,en,.edu/,False,False,True,False,False,False,False,False
+Harvard University,84,en,.edu/,False,False,True,False,False,False,False,False
+Massachusetts Institute of Technology,98,en,.mit.edu/,False,False,True,True,False,False,False,False
+University of Cambridge,54,en,.ac.uk/,False,False,True,False,False,False,False,False
+University of California,72,en,.edu/,False,False,True,True,False,True,False,False
+Princeton University,80,en,.edu/,False,False,True,False,False,False,False,False
+The University of Chicago,58,en,.edu/,False,False,True,True,False,False,False,False
+Imperial College London,58,en,.ac.uk/,False,False,True,True,False,False,False,False
+Johns Hopkins University,51,en,.jhu.edu/,False,True,True,False,False,True,False,False
+ETH Zürich,93,de,.ch/,False,False,True,False,False,False,False,False
+London's Global University,43,en,.ac.uk/,False,False,True,True,False,True,False,False
+Duke University,83,en,.edu/,False,False,True,False,False,False,False,False
+Peking University,0,,.edu.cn/,False,False,True,True,True,True,True,False
+The University of Edinburgh,95,en,.ac.uk/,False,False,True,False,False,True,False,False
+LMU München,96,de,.lmu.de/,False,False,True,True,False,True,False,False
+Karolinska Institutet,98,sv,.se/,False,False,True,False,False,False,False,False
+The University of Hong Kong (HKU),70,en,.hku.hk/,False,False,True,False,False,False,False,False
+The Entrepreneurial University,76,de,.tum.de/,False,False,True,True,False,True,False,False
+KU Leuven,88,nl,.be/,False,False,True,True,False,True,False,False
+The University of Sydney,73,en,.edu.au/,False,False,True,True,False,True,False,False
+Universiteit Leiden,89,nl,.nl/,False,False,True,False,False,True,False,False
+Humboldt-Universität zu Berlin,69,de,.de/,False,True,True,False,False,True,False,False
+The Ohio State University,73,en,.osu.edu/,False,False,True,True,False,False,False,False
+Albert-Ludwigs-Universität Freiburg,13,de,.de/,False,False,True,True,False,False,False,False
+Københavns Universitet,33,da,.ku.dk/,False,False,True,True,False,True,False,False
+École polytechnique,67,fr,.edu/,False,False,True,True,False,False,False,False
+Sorbonne Université,0,fr,.fr/,False,False,True,False,False,True,False,False
+Universität Basel,91,de,.ch/,False,False,True,True,False,False,False,False
+University of Glasgow,88,en,.ac.uk/,False,False,True,True,False,True,False,False
+Helsingin yliopisto,100,fi,.fi/,False,False,False,False,False,False,False,False
+Monash University,71,en,.edu/,False,False,True,True,False,True,False,False
+Brown University,87,en,.edu/,False,False,True,False,False,True,False,False
+Universiteit Gent,95,nl,.be/,False,False,True,True,True,False,False,False
+Lunds universitet,60,sv,.lu.se/,False,False,True,False,False,True,False,False
+Michigan State University,70,en,.edu/,False,False,True,False,False,True,False,False
+Aarhus Universitet,53,da,.au.dk/,False,False,True,False,False,True,False,False
+RWTH AACHEN UNIVERSITY - Rheinisch-Westfaelische Technische Hochschule - Deutsch,74,de,.de/,False,True,False,True,False,True,False,False
+Queen Mary University of London,65,en,.ac.uk/,False,False,True,True,False,True,False,False
+Uppsala universitet,77,sv,.uu.se/,False,False,True,True,False,True,False,False
+Universität Bonn,99,de,.de/,False,False,False,False,False,True,False,False
+Sungkyunkwan University,0,en,.edu/,False,True,True,True,False,True,False,False
+Vanderbilt University,72,en,.edu/,False,False,True,False,False,False,False,False
+Vrije Universiteit Amsterdam,74,nl,.vu.nl/,False,False,True,True,False,True,False,False
+The University of Adelaide,65,en,.edu.au/,False,False,True,True,False,True,False,False
+City University of Hong Kong,60,en,.edu.hk/,False,False,True,False,False,False,False,False
+Universitetet i Oslo,63,no,.uio.no/,False,True,True,False,False,True,False,False
+Georg-August-Universität Göttingen,58,de,.de/,False,False,True,False,False,True,False,False
+University of Alberta,73,en,.ca/,False,False,True,False,False,False,False,False
+University of Colorado Boulder,58,en,.edu/,False,False,True,False,False,True,False,False
+University of York,51,en,.ac.uk/,False,False,True,False,False,True,False,False
+Universität Hamburg,74,de,.de/,False,False,True,True,False,True,False,False
+Lancaster University,74,en,.ac.uk/,False,False,True,False,False,False,False,False
+Radboud Universiteit,97,nl,.ru.nl/,False,False,True,False,False,False,False,False
+The University of Western Australia,0,en,.edu.au/,False,False,True,False,False,True,False,False
+Indiana University Bloomington,70,en,.edu/,False,False,True,False,False,False,False,False
+Universität Mannheim,56,de,.de/,False,False,True,False,False,True,False,False
+University of Ottawa,51,en,.ca/,False,False,True,True,False,True,False,False
+The University of Auckland,79,en,.ac.nz/,False,False,True,True,False,True,False,False
+University of Rochester,82,en,.edu/,False,False,True,True,False,True,False,False
+Durham University,68,en,.ac.uk/,False,False,True,False,False,True,False,False
+Université de Genève,60,fr,.ch/,False,False,True,True,False,True,False,False
+University of Florida,75,en,.ufl.edu/,False,True,True,True,False,True,False,False
+Universitat Pompeu Fabra,75,es,.upf.edu/,False,False,True,False,False,True,False,False
+Trinity College Dublin,76,en,.tcd.ie/,False,False,True,False,False,False,False,False
+Tufts University,37,en,.edu/,False,False,True,True,False,True,False,False
+Universität Bielefeld,59,de,.de/,False,False,True,True,False,True,False,False
+University of Sussex,81,en,.ac.uk/,False,False,True,True,False,True,False,False
+The University of Liverpool,0,en,.ac.uk/,False,False,True,True,False,True,False,False
+Université catholique de Louvain,71,fr,.be/,False,False,True,True,False,False,False,False
+Rutgers University,98,en,.edu/,False,False,True,False,False,False,False,False
+Università di Bologna,14,it,.it/,False,True,True,True,False,True,False,False
+Korea University,6,ko,.edu/,False,True,True,False,False,False,False,False
+Universiteit Antwerpen,90,nl,.be/,False,False,True,True,False,False,False,False
+University of Leicester,58,en,.ac.uk/,False,False,True,True,False,True,False,False
+University of Exeter,56,en,.ac.uk/,False,False,True,True,False,True,False,False
+Lomonosov Moscow State University,82,ru,.msu.ru/,False,True,True,True,False,True,False,False
+Northeastern University,0,en,.edu/,False,False,True,False,False,False,False,False
+Université Paris-Saclay,24,fr,.fr/,False,False,True,False,False,True,False,False
+Universitat Autònoma de Barcelona,72,es,.uab.cat/,False,False,True,True,False,False,False,False
+University of Canberra,41,en,.edu.au/,False,False,True,False,False,True,False,False
+QUT,10,en,.edu.au/,False,False,True,True,False,True,False,False
+Cardiff University,70,en,.ac.uk/,False,False,True,True,False,True,False,False
+Macquarie University,74,en,.edu.au/,False,False,True,False,False,True,False,False
+Universität Münster,84,de,.de/,False,False,True,True,False,True,False,False
+Texas A&M University,82,en,.edu/,False,False,True,False,False,False,False,False
+Friedrich-Alexander-Universität Erlangen-Nürnberg ,86,de,.fau.de/,False,False,True,False,False,True,False,False
+University of Calgary in Alberta,61,en,.ca/,False,False,True,True,False,True,False,False
+University of East Anglia,55,en,.ac.uk/,False,False,True,True,False,True,False,False
+University of Bath,65,en,.ac.uk/,False,False,True,False,False,True,False,False
+Universitetet i Bergen,84,nb,.uib.no/,False,False,True,True,False,True,False,False
+Brandeis University,48,en,.edu/,False,False,True,True,False,False,False,False
+Copenhagen Business School,95,da,.cbs.dk/,False,False,False,False,False,True,False,False
+Curtin University,72,en,.edu.au/,False,False,True,False,False,True,False,False
+Universität des 21.Jahrhunderts,55,de,.de/,False,False,True,True,False,False,False,False
+Universität Hohenheim,55,de,.de/,False,False,True,False,False,True,False,False
+La Trobe University,0,en,.edu.au/,False,False,True,False,False,True,False,False
+Bienvenue à l'ULB,58,fr,.ulb.be/,False,False,True,False,False,True,False,False
+Med Uni Graz,29,de,.at/,False,False,True,False,False,True,False,False
+Medizinische Universität Innsbruck,89,de,.ac.at/,False,False,True,False,False,True,False,False
+University of Otago,75,en,.ac.nz/,False,False,True,True,False,False,False,False
+RCSI Dublin,75,en,.com/,False,False,True,True,False,False,False,False
+Sapienza Università di Roma,81,it,.it/,False,False,True,True,False,True,False,False
+Télécom Paris,47,fr,.fr/,False,False,True,True,False,True,False,False
+Tilburg University,86,nl,.edu/,False,False,True,False,False,True,False,False
+The University of Utah,83,en,.edu/,False,False,True,True,False,True,False,False
+Wits University,88,en,.ac.za/,False,False,True,True,False,True,False,False
+University of Wollongong,42,en,.edu.au/,False,False,True,True,False,True,False,False
+AUT,34,en,.ac.nz/,False,False,True,False,False,True,False,False
+Australian Catholic University,64,en,.edu.au/,False,False,True,True,False,False,False,False
+Brighton and Sussex Medical School,80,en,.ac.uk/,False,False,True,False,False,True,False,False
+Deakin University,78,en,.edu.au/,False,False,True,True,False,False,False,False
+Ecole des Ponts ParisTech,50,fr,.fr/,False,False,True,True,False,True,False,False
+Flinders University,42,en,.edu.au/,False,False,True,True,True,True,False,False
+Friedrich-Schiller-Universität,33,de,.de/,False,True,True,True,False,False,False,False
+HSE University,62,,.hse.ru/,False,False,True,False,False,True,True,False
+Christian-Albrechts-Universität,42,de,.de/,False,False,True,True,False,True,False,False
+Université Laval,22,fr,.ca/,False,False,True,False,False,True,False,False
+Universidad de Navarra,59,es,.edu/,False,False,True,True,True,True,False,False
+The University of New Mexico,60,en,.unm.edu/,False,False,True,True,False,True,False,False
+Nova Southeastern University,62,en,.edu/,False,False,True,True,False,False,False,False
+OHSU,95,en,.edu/,False,False,True,False,False,True,False,False
+Università di Padova,30,it,.it/,False,True,True,True,False,False,False,False
+Simon Fraser University,72,en,.sfu.ca/,False,False,True,False,False,True,False,False
+Universität Potsdam,95,de,.de/,False,False,True,True,False,True,False,False
+Stellenbosch University,82,en,.ac.za/,False,True,True,False,False,True,False,False
+University of Surrey,31,en,.ac.uk/,False,False,True,True,False,True,False,False
+Università della Svizzera italiana,44,it,.usi.ch/,False,True,True,False,False,False,False,False
+Wake Forest University,74,en,.edu/,False,False,True,True,False,True,False,False
+William & Mary,0,en,.edu/,False,False,True,True,False,False,False,False
+Anglia Ruskin University,85,en,.ac.uk/,False,False,True,True,False,True,False,False
+Boston College,59,en,.bc.edu/,False,False,True,True,False,True,False,False
+UC Merced,74,en,.edu/,False,False,True,True,False,True,False,False
+UC Merced,74,en,.edu/,False,False,True,True,False,True,False,False
+Universität Greifswald,78,de,.de/,False,False,True,True,False,True,False,False
+Indian Institute of Science,66,in,.ac.in/,False,False,True,True,False,False,False,False
+Universität Klagenfurt,81,de,.aau.at/,False,False,True,True,False,False,False,False
+Université de Montpellier,77,fr,.fr/,False,False,True,True,False,True,False,False
+NC State University,71,en,.edu/,False,False,True,True,False,False,False,False
+Oulun yliopisto,86,fi,.fi/,False,False,True,False,False,False,False,False
+Háskólinn í Reykjavík,73,is,.ru.is/,False,False,True,False,False,True,False,False
+RMIT University,92,en,.edu.au/,False,False,True,False,False,True,False,False
+The University of Texas at Dallas,84,en,.edu/,False,False,True,False,False,True,False,False
+University Trento,84,it,.it/,False,False,True,True,False,True,False,False
+Tulane University,73,en,.edu/,False,False,True,True,False,True,False,False
+Ýstanbul Bilgi Üniversitesi,60,tr,.edu.tr/,False,False,True,True,False,True,False,False
+Kadir Has Üniversitesi,0,tr,.edu.tr/,False,False,True,False,False,True,False,False
+Boðaziçi Üniversitesi,67,,.edu.tr/,True,True,False,True,False,True,True,False
+Ýstanbul Üniversitesi - 1453,80,tr,.edu.tr/,True,True,False,False,False,False,False,False
+Marmara Üniversitesi,32,tr,.edu.tr/,False,False,True,True,False,False,False,False
+Yýldýz Teknik Üniversitesi,0,,.edu.tr/,True,False,True,True,False,True,True,False
+Türk-Alman Üniversitesi,45,tr,.edu.tr/,False,False,True,True,False,False,False,False
+Acýbadem Üniversitesi,60,tr,.edu.tr/,False,False,True,True,False,True,False,False
+Altýnbaþ Üniversitesi,30,en,.edu.tr/,True,False,True,False,True,False,False,False
+Iþýk Üniversitesi,16,tr,.edu.tr/,False,False,True,False,False,True,False,False
+Ýstanbul Geliþim Üniversitesi,88,tr,.edu.tr/,False,False,True,False,False,True,False,False
+Fenerbahçe Üniversitesi,24,tr,.edu.tr/,False,False,True,False,False,True,False,False
+T.C. Ýstanbul Kültür Üniversitesi,63,tr,.edu.tr/,False,False,True,True,False,False,False,False
+Koç Üniversitesi,46,tr,.edu.tr/,True,False,True,True,False,True,False,False
+Sabancý Üniversitesi,30,tr,.edu/,False,False,True,True,False,False,False,False
+Ýstanbul Okan Üniversitesi,0,tr,.edu.tr/,False,False,True,False,False,True,False,False
+MEF Üniversitesi,31,tr,.edu.tr/,False,False,True,True,False,False,False,False
+Orta Doðu Teknik Üniversitesi,47,,.edu.tr/,False,False,True,True,False,True,True,False
+Hacettepe Üniversitesi,69,,.edu.tr/,True,False,True,True,False,False,True,False
+Anadolu Üniversitesi,39,tr,.edu.tr/,True,False,True,False,False,False,False,False
+Ondokuz Mayýs Üniversitesi,0,tr,.edu.tr/,False,False,True,True,False,True,False,False
+Akdeniz Üniversitesi,0,tr,.edu.tr/,True,False,True,True,False,True,False,False
+Trakya Üniversitesi,10,tr,.edu.tr/,False,False,True,True,True,True,False,False
+Çanakkale Onsekiz Mart Üniversitesi,0,tr,.edu.tr/,False,False,True,True,False,True,False,False
+Ýzmir Yüksek Teknoloji Enstitüsü,63,tr,.edu.tr/,False,False,True,False,True,False,False,False
+Manisa Celal Bayar Üniversitesi,30,,.edu.tr/,True,False,True,True,False,False,True,False
+Tekirdað Namýk Kemal Üniversitesi,23,en,.edu.tr/,False,False,True,True,False,True,False,False
+Amazon.com,85,en,.com/,False,True,True,False,False,True,False,False
+JD.COM,70,,.jd.com/,True,True,False,False,False,False,True,False
+Tencent,84,cn,.com/,False,True,True,True,False,False,False,False
+Alibaba,21,,.com/,False,False,True,False,False,True,True,False
+Suninga,0,cn,.com/,True,True,True,False,False,True,False,False
+Salesforce EMEA,70,en,.com/,False,False,True,True,False,False,False,False
+Wayfair,87,en,.com/,False,True,True,False,False,True,False,False
+Rakuten,76,,.com/,False,False,True,False,False,False,True,False
+Kuaishou,77,,.com/,False,True,True,False,False,False,True,False
+Zalando,80,de,.de/,False,False,True,True,False,True,False,False
+Chewy,90,,.com/,False,False,False,False,False,False,True,False
+Wildberries,64,ru,.ru/,False,False,True,True,False,False,False,False
+Navercorp,94,ko,.com/,False,False,True,False,False,True,False,False
+ASOS,0,en,.com/,False,False,True,False,False,False,False,False
+Sea,80,en,.sea.com/,True,True,False,False,False,False,False,False
+Pinduoduo,52,,.com/,False,False,True,True,False,True,True,False
+Compass,69,en,.com/,False,False,True,False,False,False,False,False
+Stripe,31,en,.com/,False,False,True,True,False,False,False,False
+Airbnb,97,en,.com/,False,False,True,True,False,False,False,False
+Zillow,98,en,.com/,False,False,True,False,False,True,False,False
+GoDaddy,84,en,.com/,False,False,True,False,False,True,False,False
+Wish,50,en,.com/,True,True,True,False,False,True,False,False
+Shopify,0,en,.com/,False,False,True,False,True,True,False,False
+TripGroup,90,zh,.com/,False,True,False,False,False,False,False,False
+Opendoor,90,en,.com/,False,False,True,False,False,True,False,False
+Travelport,82,en,.com/,False,False,True,True,False,True,False,False
+Coolblue,37,nl,.nl/,False,False,True,False,False,True,False,False
+Lyft,67,en,.com/,False,False,True,False,False,False,False,False
+Fanatics,80,,.com/,False,True,False,False,False,False,True,False
+BJ58,77,,.58.com/,False,True,True,False,False,True,True,False
+Sina,0,,.com.cn/,False,True,True,False,True,True,True,False
+Newegg,55,en,.com/,False,False,True,False,False,True,False,False
+Instacart,70,en,.com/,False,True,True,False,False,True,False,False
+Shutterfly,99,en,.com/,False,False,True,False,False,False,False,False
+Grubhub,76,,.com/,False,True,True,False,False,False,True,False
+StitchFix,67,en,.com/,False,False,True,False,False,False,False,False
+Farfetch,53,en,.com/,False,False,True,True,False,True,False,False
+J2 Global,39,en,.com/,False,False,True,False,False,False,False,False
+DocuSign,54,en,.com/,False,False,True,True,False,True,False,False
+Groupon,87,en,.com/,False,False,True,True,False,True,False,False
+Ozon,0,,.ru/,False,True,True,True,True,False,True,False
+Sabre,89,en,.com/,False,False,True,True,False,False,False,False
+Kaplan,80,en,.com/,False,True,True,True,True,True,False,False
+Walgreens Boots Alliance,65,en,.com/,False,False,True,False,False,True,False,False
+The Home Depot,41,,.com/,False,False,True,True,True,True,True,False
+CVS Health,60,en,.com/,False,False,True,False,False,True,False,False
+Target.,18,en,.com/,False,False,True,True,False,True,False,False
+Lowe's,39,en,.com/,False,False,True,False,False,True,False,False
+Ahold Delhaize,0,en,.com/,False,False,True,True,False,False,False,False
+Publix,99,en,.com/,False,False,True,False,False,False,False,False
+TJX Companies Inc.,54,en,.tjx.com/,False,False,True,True,False,True,False,False
+ALDI,50,nl,.nl/,False,False,True,False,False,True,False,False
+Dollar General.,0,en,.com/,False,False,True,False,False,True,False,False
+Yum.Com,83,en,.yum.com/,False,False,True,True,False,False,False,False
+7-Eleven,57,en,.com/,False,False,True,True,False,True,False,False
+Ace Hardware,0,en,.com/,False,False,True,False,False,True,False,False
+PetSmart,0,en,.com/,False,False,True,True,False,True,False,False
+Bed Bath and Beyond Online,57,,.co.nz/,False,False,True,False,False,True,True,False
+Hy-Vee,80,en,.com/,False,False,True,False,False,True,False,False
+Health Mart Independent Pharmacies,40,en,.com/,False,False,True,True,False,True,False,False
+Qurate Retail Group,80,en,.com/,False,False,True,True,False,False,False,False
+O'Reilly Auto Parts,62,en,.com/,False,False,True,True,True,True,False,False
+Wegmans Food Markets,4,en,.com/,False,False,True,True,False,False,False,False
+Sherwin-Williams Paints,8,en,.com/,False,False,True,True,False,False,False,False
+Military Discount,0,en,.com/,False,False,True,True,False,True,False,False
+Ulta Beauty,0,en,.com/,False,False,True,True,False,False,False,False
+Burlington,33,en,.com/,False,True,True,True,False,True,False,False
+Foot Locker,70,en,.co.uk/,False,False,True,False,False,False,False,False
+AscenaRetail,76,en,.com/,False,False,True,True,False,True,False,False
+Sprouts Farmers Market,77,en,.com/,False,False,True,False,False,False,False,False
+Big Lots,0,en,.com/,False,False,True,True,False,True,False,False
+Academy Sports,55,en,.com/,False,False,True,True,False,True,False,False
+Camping World,68,en,.com/,False,False,True,True,False,True,False,False
+Michaels Stores,0,en,.com/,False,False,True,True,False,False,False,False
+Otto Group,50,de,.com/,False,True,True,False,False,True,False,False
+Apple,88,en,.com/,False,False,False,True,False,True,False,False
+Veepee,78,fr,.fr/,False,False,True,True,False,True,False,False
+Carrefour,48,fr,.fr/,False,False,True,False,False,True,False,False
+MediaMarkt,0,,.de/,False,False,True,True,False,False,True,False
+Bol,0,nl,.bol.com/,False,False,True,False,False,True,False,False
+Dixons Carphone,60,en,.com/,False,False,True,True,True,True,False,False
+Gigantti,51,,.fi/,False,False,True,True,False,True,True,False
+Elgiganten,44,,.se/,False,False,True,True,False,True,True,False
+Elkjøp,47,,.no/,False,False,True,True,False,True,True,False
+ZARA,70,,.com/,True,True,False,False,False,False,True,False
+Stradivarius,80,,.com/,False,True,False,False,False,False,True,False
+PULL&BEAR,44,,.com/,True,True,True,False,False,False,True,False
+Oysho,75,es,.com/,True,True,True,True,False,False,False,False
+Massimo Dutti,80,es,.com/,True,True,False,False,False,False,False,False
+ZaraHome,80,en,.com/,True,True,False,False,False,False,False,False
+Bershka,78,es,.com/,True,True,True,False,False,False,False,False
+Uterqüe,76,,.com/,False,False,True,True,False,False,True,False
+John Lewis & Partners ,59,en,.com/,False,False,True,False,False,False,False,False
+Cdiscount,66,,.com/,True,True,True,False,False,False,True,False
+eMAG.ro,21,ro,.ro/,False,False,True,True,False,True,False,False
+Fruugo,90,en,.com/,False,False,True,True,False,True,False,False
+mobile.de,90,,.de/,False,False,False,False,False,False,True,False
+OnBuy,13,en,.com/,False,False,True,False,False,True,False,False
+OTTO,39,,.de/,False,False,True,True,False,True,True,False
+Kaufland,69,,.de/,False,False,True,False,False,False,True,False
+Migros Sanal Market,80,en,.com.tr/,True,True,False,False,False,False,False,False
+Sahibinden,60,,.com/,True,True,False,False,False,False,True,True
+GittiGidiyor,44,tr,.com/,False,False,True,False,False,True,False,False
+Trendyol,24,tr,.com/,False,False,True,False,False,False,False,False
+Grupanya,0,,.com/,False,True,True,True,True,True,True,False
+n11,0,tr,.com/,False,False,True,True,False,True,False,False
+ebebek,0,tr,.com/,False,False,True,False,False,True,False,False
+PTTAvm,0,tr,.com/,False,True,True,False,False,True,False,False
+Ciceksepeti,40,tr,.com/,True,False,True,False,False,True,False,False
+Oto.net,72,,.net/,True,False,True,True,False,False,True,False
+Morhipo,0,tr,.com/,True,False,True,True,False,False,False,False
+Vivense,0,tr,.com/,False,False,True,True,False,True,False,False
+ÝnceHesap,0,tr,.com/,False,False,True,True,False,True,False,False
+Avansas,0,tr,.com/,False,False,True,True,False,True,False,False
+Dolap,0,tr,.com/,False,False,True,True,False,True,False,False
+Letgo,37,tr,.com/,False,False,True,False,False,True,False,False
+Iyzico,77,tr,.com/,False,False,True,True,False,True,False,False
+Modacruz,10,tr,.com/,False,True,True,False,False,True,False,False
+Tatilsepeti,34,tr,.com/,False,False,True,True,False,True,False,False
+Kitapyurdu,0,tr,.com/,False,True,True,True,False,True,False,False
+Kitapsec,0,tr,.com/,False,True,True,True,True,True,False,False
+Idefix,0,tr,.com/,False,False,True,True,True,False,False,False
+DR,22,tr,.com.tr/,False,False,True,True,False,False,False,False
+Supplementler,5,tr,.com/,False,True,True,True,False,True,False,False
+Hopi,0,tr,.com.tr/,False,False,True,True,False,True,False,False
+Ofix,0,tr,.com/,False,False,True,True,True,True,False,False
+AustralianGovernment,33,en,.gov.au,False,False,True,True,False,True,False,False
+BelgiumGovernment,83,nl,.ibz.be/,False,False,True,False,False,True,False,False
+CanadaGovernment,38,en,.ca/,False,False,True,False,False,True,False,False
+DenmarkGovernment,79,dk,.dk/,False,False,True,False,False,True,False,False
+FinlandGovernment,93,fi,.fi/,False,False,True,True,False,True,False,False
+FranceGovernment,84,fr,.fr,False,True,True,False,True,True,False,False
+GermanGovernment,82,de,.de/,False,False,True,False,False,False,False,False
+HongKongGovernment,77,hk,.gov.hk/,False,False,True,True,False,False,False,False
+IrelandGovernment,71,ie,.gov.ie/,False,True,True,False,True,True,False,False
+ItalyGovernment,92,it,.gov.it/,False,False,True,False,False,False,False,False
+NetherlandsGovernment,83,nl,.nl/,False,False,True,True,False,False,False,False
+NewZealandGovernment,81,en,.nz,False,False,True,False,False,False,False,False
+NorwayGovernment,93,no,.udi.no/,False,False,True,True,False,False,False,False
+SingaporeGovernment,58,en,.gov.sg,False,False,True,True,False,True,False,False
+SouthAfricaGovernment,16,en,.gov.za,False,False,True,True,True,True,False,False
+SpainGovernment,62,es,.gob.es,False,True,True,False,False,True,False,False
+SwedenGovernment,82,sw,.se/,False,False,True,True,False,True,False,False
+SwitzerlandGovernment,86,en,.ch/,False,False,True,True,True,False,False,False
+UKGovernment,83,en,.gov.uk,False,False,True,False,False,True,False,False
+USGovernment,81,en,.gov,False,False,True,True,False,True,False,False
+RussianGovernment,74,ru,.ru/,True,False,True,True,False,False,False,False
+UkraniaGovernment,43,ua,.gov.ua/,False,False,True,False,False,True,False,False
+PolishGovernment,0,pl,.gov.pl/,False,False,True,False,False,True,False,False
+RomanianGovernment,2,,.ro/,False,True,True,False,False,True,True,False
+CzechGovernment,79,cs,.cz/,False,False,True,False,False,True,False,False
+GreekGovernment,46,el,.gov.gr/,False,False,True,True,False,True,False,False
+PortugalGovernment,0,pt,.gov.pt/,False,False,True,True,False,True,False,False
+HungaryGovernment,87,hu,.gov.hu/,False,True,True,False,False,False,False,False
+AustriaGovernment,88,de,.gv.at/,False,False,True,False,False,True,False,False
+SerbianGovernment,0,sr,.gov.rs/,False,False,True,True,False,True,False,False
+BulgarianGovernment,90,bg,.gov.bg/,False,False,True,True,False,True,False,False
+SlovakiaGovernment,28,sk,.gov.sk/,True,True,True,False,True,True,False,False
+CrotiaGovernment,75,,.gov.hr/,False,False,True,False,False,True,True,False
+MoldovaGovernment,6,ro,.md/,False,False,True,False,False,True,False,False
+BosniaAndHerzegovinaGovernment,9,,.gov.ba/,False,True,True,True,True,False,True,False
+LithuaniaGovernment,74,en,.lt/,False,False,True,True,False,True,False,False
+NorthMacedoniaGovernment,13,mk,.mk/,False,False,True,False,True,True,False,False
+LatviaGovernment,0,,.lv/,False,False,True,True,True,True,True,False
+EstoniaGovernment,74,et,.ee/,False,False,True,True,False,True,False,False
+MontenegroGovernment,86,sr,.gov.me/,False,False,True,False,False,True,False,False
+LuxembourgGovernment,42,fr,.lu/,False,False,True,False,False,False,False,False
+MaltaGovernment,74,mt,.gov.mt/,False,False,True,True,False,True,False,False
+AndorraGovernment,34,ca,.ad/,False,False,True,False,True,True,False,False
+MonacoGovernment,67,fr,.mc/,False,True,True,True,False,True,False,False
+LiechtensteinGovernment,57,,.li/,False,False,True,True,False,True,True,False
+SanMarinoGovernment,90,it,.gov.sm/,False,False,True,False,False,True,False,False
+HolySee,0,,.va/,False,False,True,True,False,True,True,False
+TurkishGovernment,63,tr,.gov.tr/,False,False,True,True,False,True,False,False
+BrasilGovernment,60,br,.gov.br/,False,False,True,True,False,True,False,False
+MexicoGovernment,80,en,.gob.mx,True,True,False,False,False,False,False,False
+ColombiaGovernment,80,es,.gov.co/,True,True,False,False,False,False,False,False
+ArgentinaGovernment,92,es,.gob.ar/,False,False,True,True,False,True,False,False
+PeruGovernment,96,es,.gob.pe/,False,False,True,False,False,True,False,False
+ChileGovernment,58,es,.gob.cl/,False,False,True,True,False,False,False,False
+GuatemalaGovernment,0,es,.gob.gt/,False,True,True,True,False,True,False,False
+EcuadorGovernment,79,es,.gob.ec/,False,False,True,True,False,True,False,False
+BoliviaGovernment,81,,.gob.bo/,False,False,True,False,False,True,True,False
+ThailandGovernment,0,,.go.th/,True,True,True,True,True,True,True,False
+SouthKoreaGovernment,0,k,.go.kr/,False,False,True,False,False,True,False,False
+IraqGovernment,54,,.gov.iq/,True,False,True,True,False,True,True,False
+SaudiArabiaGovernment,11,ar,.gov.sa/,False,True,True,True,True,True,False,False
+MalaysiaGovernment,80,en,.gov.my/,True,True,False,False,False,False,False,False
+YemenGovernment,0,ye,.gov.ye/,True,True,True,False,True,True,False,False
+NepalGovernment,74,en,.gov.np/,True,True,True,False,False,False,False,False
+SriLankaGovernment,80,en,.gov.lk/,False,True,True,False,False,False,False,False
+KazakhstanGovernment,70,kk,.gov.kz/,True,True,False,False,False,False,False,True
+CambodiaGovernment,0,en,.gov.kh/,False,False,True,True,False,True,False,False
+JordanGovernment,0,ar,.gov.jo/,False,False,True,True,True,True,False,False
+AzerbaijanGovernment,49,,.gov.az/,False,False,True,True,False,True,True,False
+UnitedArabEmiratesGovernment,66,ar,.ae/,False,False,True,True,False,False,False,False
+IsraelGovernment,60,,.gov.il/,True,True,False,False,False,False,True,True
+SingaporeGovernment,97,en,.gov.sg/,False,False,True,False,False,False,False,False
+KuwaitGovernment,0,ar,.gov.kw/,False,False,True,True,True,True,False,False
+GeorgiaGovernment,47,en,.gov/,False,False,True,True,False,False,False,False
+QatarGovernment,82,ar,.gov.qa/,False,False,True,True,False,False,False,False
+BahrainGovernment,72,ar,.bh/,False,False,True,True,True,True,False,False
+TimorLesteGovernment,48,en,.gov.tl/,False,True,True,True,False,True,False,False
+BhutanGovernment,70,,.gov.bt/,True,True,False,False,False,False,True,False
+MaldivesGovernment,70,,.gov.bt/,True,True,False,False,False,False,True,False
+BruneiGovernment,0,en,.gov.bn/,False,False,True,True,True,True,False,False
+JapanGovernment,53,jp,.go.jp/,False,False,True,False,True,False,False,False
+PhilippineGovernment,54,ph,.gov.ph/,False,False,True,False,True,True,False,False
+PakistanGovernment,40,,.gov.pk/,False,True,True,True,True,False,True,False
+SamoaGovernment,80,en,.ws/,False,False,True,False,False,True,False,False
+TurkmenistanGovernment,59,tk,.gov.tm/,False,False,True,True,False,True,False,False
+NigeriaGovernment,68,en,.gov.ng/,False,False,True,True,False,True,False,False
+EgyptGovernment,39,ar,.gov.eg/,False,True,True,True,True,True,False,False
+MoroccoGovernment,86,ar,.ma/,False,False,True,True,False,True,False,False
+GhanaGovernment,92,en,.gov.gh/,False,False,True,False,False,False,False,False
+TanzaniaGovernment,0,,.go.tz/,False,True,True,True,True,True,True,False
