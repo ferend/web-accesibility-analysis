@@ -1,6 +1,6 @@
-# web-accesibility-analysis
+# web-accessibility-analysis
 
-This project is about analyzing the website accesbility scores.
+This project is about analyzing the website accessibility scores.
 
 The Internet has become an indispensable usage tool of this age we live in. Now we can see it as one of the basic needs that everyone needs in the world. The Internet is becoming an increasingly important resource in many aspects of life, including education, work, government, commerce, health care, leisure, and others. The Web must be accessible to provide people of varying abilities with equal access and opportunity.
 
