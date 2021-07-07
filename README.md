@@ -6,13 +6,13 @@ The Internet has become an indispensable usage tool of this age we live in. Now 
 
 
 
-With the help of the developed the software tool with Python programming language I used the R programming language for data visualization and other analytic models. 
-You can acsess to the software from the following link:
+With the help of the developed software tool with Python programming language, I used the R programming language for data visualization and other analytic models. 
+You can access to the software from the following link:
 https://github.com/bertacsevercan/accessibility-checker
 
-(Huge thanks to Bertaç Severcan for this awsome tool.)
+(Huge thanks to Bertaç Severcan for this awesome tool.)
 
-Sotware itself made it possible for me to create the dataset itself. I analyzed 388 websites. The dataset has 12 variables and 388 observations. Since there are only 3 websites that have an issue with the title attribute we dropped the title column from our dataset. I included 3 types of websites in the dataset. 172 of them is university website, 90 of them is government website of the countries and 126 of them is the eCommerce / retailing websites.
+The software itself made it possible for me to create the dataset itself. I analyzed 388 websites. The dataset has 12 variables and 388 observations. Since there are only 3 websites that have an issue with the title attribute we dropped the title column from our dataset. I included 3 types of websites in the dataset. 172 of them is university website, 90 of them is government website of the countries and 126 of them is the eCommerce / retailing websites.
 
 ## Results 
 
