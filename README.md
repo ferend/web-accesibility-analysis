@@ -1,4 +1,4 @@
-# web-accessibility-analysis
+# Web Accessibility Analysis
 
 This project is about analyzing the website accessibility scores.
 
